@@ -37,9 +37,15 @@ dsa90days/
 ## 📈 Progress Tracking  
 | Day  | Topic/Focus                     | Problems Solved | Notes Added |  
 |------|----------------------------------|-----------------|-------------|  
-| Day 1|Basics of C++                     | 13               | ✅          |  
+| Day 1|Basics of C++                     | 13              | ✅          |  
 | Day 2|Complexity Analysis               | 1               | ✅          |  
+| Day 3|Arrays                            | 17              | ✅         |  
 | ...  | ...                              | ...             | ...         |  
+| ...  | ...                              | ...             | ...         |  
+| ...  | ...                              | ...             | ...         |  
+| ...  | ...                              | ...             | ...         |  
+| ...  | ...                              | ...             | ...         |  
+
 
 ## 🤝 Contributing  
 This is a personal project, but if you'd like to contribute or suggest improvements, feel free to submit a pull request or open an issue.  
